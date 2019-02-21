@@ -1,0 +1,2 @@
+# SaltIdentification
+A kaggle competition 
